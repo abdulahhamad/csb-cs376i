@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://abdulahhamad.github.io/csb-cs376i/static/css/main.d47e8bd2.chunk.css",
+    "main.js": "https://abdulahhamad.github.io/csb-cs376i/static/js/main.8a6a7964.chunk.js",
+    "main.js.map": "https://abdulahhamad.github.io/csb-cs376i/static/js/main.8a6a7964.chunk.js.map",
+    "runtime-main.js": "https://abdulahhamad.github.io/csb-cs376i/static/js/runtime-main.3f1a1f9c.js",
+    "runtime-main.js.map": "https://abdulahhamad.github.io/csb-cs376i/static/js/runtime-main.3f1a1f9c.js.map",
+    "static/js/2.8bc12123.chunk.js": "https://abdulahhamad.github.io/csb-cs376i/static/js/2.8bc12123.chunk.js",
+    "static/js/2.8bc12123.chunk.js.map": "https://abdulahhamad.github.io/csb-cs376i/static/js/2.8bc12123.chunk.js.map",
+    "index.html": "https://abdulahhamad.github.io/csb-cs376i/index.html",
+    "precache-manifest.cc7debfb3a3cdd710f3ec346a3e7db0e.js": "https://abdulahhamad.github.io/csb-cs376i/precache-manifest.cc7debfb3a3cdd710f3ec346a3e7db0e.js",
+    "service-worker.js": "https://abdulahhamad.github.io/csb-cs376i/service-worker.js",
+    "static/css/main.d47e8bd2.chunk.css.map": "https://abdulahhamad.github.io/csb-cs376i/static/css/main.d47e8bd2.chunk.css.map",
+    "static/js/2.8bc12123.chunk.js.LICENSE.txt": "https://abdulahhamad.github.io/csb-cs376i/static/js/2.8bc12123.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f1a1f9c.js",
+    "static/js/2.8bc12123.chunk.js",
+    "static/css/main.d47e8bd2.chunk.css",
+    "static/js/main.8a6a7964.chunk.js"
+  ]
+}
